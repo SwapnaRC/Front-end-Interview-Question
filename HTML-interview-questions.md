@@ -1,9 +1,9 @@
 HTML Interview Questions
 
-### 1. What is HTML?
- Ans:** HyperText Markup Language (HTML)** is the basic scripting language used to design a webpages.
+###### 1. What is HTML?
+ Ans:  **HyperText Markup Language (HTML)** is the basic scripting language used to design a webpages.
  
- ### 2. Write a HTML structure ?
+ ###### 2. Write a HTML structure ?
  Ans : <!DOCTYPE html>
         <html>
           <head>
@@ -14,10 +14,10 @@ HTML Interview Questions
           </body>
         </html>
         
- ### 3. What is DOCTYPE?
+ ###### 3. What is DOCTYPE?
  Ans: The DOCTYPE declaration associated with the web browser about what version of HTML the page.
  
- ### 4. What are the heading tag?
+ ###### 4. What are the heading tag?
  Ans: Heading tags are : h1, h2, h3, h4, h5, h6
           <h1>Heading no. 1</h1>    
           <h2>Heading no. 2</h2>    
@@ -26,7 +26,7 @@ HTML Interview Questions
           <h5>Heading no. 5</h5>    
           <h6>Heading no. 6</h6>
           
-### 5. What are the types of list tags?
+###### 5. What are the types of list tags?
 Ans: There are 2 types of list tag 
       1. Ordered List  and 2. Unordered List
       1.  Ordered List :
