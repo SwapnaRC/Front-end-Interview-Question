@@ -55,7 +55,8 @@ Ans:   Websockets allows to creating a permanent connection between the page and
 ###### 8. What are the attribute of ```<video>``` ?
 Ans: Attribute are: width, height, controls etc
  
- ``` <video width="320" height="240" controls>
+ ``` 
+     <video width="120" height="120" controls>
         <source src="videolink.mp4" type="video/mp4">
      </video>
 ```
