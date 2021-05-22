@@ -42,3 +42,21 @@ Ans: There are 2 types of list tag
           <li> Unordered List Item 2</li>
         </ul>
       ```
+###### 6. What are HTML5 tags?
+Ans: HTML5 tags are : 
+     - Outlining and sectioning elements
+        ``` <section>, <article>, <nav>, <header>, <footer> and <aside> ```
+     - Multimedia tags
+         ```  <audio> and <video> ```
+         
+###### 7. What is WebSocket?
+Ans:   Websockets allows to creating a permanent connection between the page and the server and to exchange non-HTML data.
+
+###### 8. What are the attribute of ```<video>``` ?
+Ans: Attribute are: width, height, controls etc
+ 
+ ``` <video width="320" height="240" controls>
+        <source src="videolink.mp4" type="video/mp4">
+     </video>
+```
+
