@@ -61,3 +61,36 @@ Ans: Attribute are: width, height, controls etc
      </video>
 ```
 
+###### 9. Why we will use <meta> ?
+Ans: Meta tags are the tags that provide more information to our web pages.Such as : Link, Style, Title.
+
+###### 10. How to add the icon in title tag ?
+Ans: We can add the icon using the ```<link rel="shortcut icon" href="/favicon.ico" >```
+
+###### 11. List out the <input> attribute ?
+Ans: Input tag Attribute are used based on requirement for example : if you neeed textbox which accrept the text/number/special characters into it then it should be ```<input type="text">``` Other attributes are :
+                            - Datetime,
+                            - Placeholder
+                            - Number
+                            - Tel(telephone number)
+                            - Email
+                            
+###### 12. What is server sent events ?
+Ans:  The events that come from the server to the browser its also know as One Way Messaging because web page automatically gets updates from a server.
+
+-  Can you hide  HTML source code?
+Ans:   No its not possible to hide the HTML source code as the browser needs to understand the code.
+
+- What is Application Cache ?
+Ans: Application Cache is a mechanism in which the web applications can also run offline. One of the advantages of using the application cache is that the resources load faster.
+
+- What is the difference between `<div>` and `<span>` ?
+ Ans :<div> is a block-level element and  <span> is an inline element. 
+ 
+- What is a manifest file in HTML?
+Ans: The manifest file is a simple text file that lists the resources the browser should cache for offline access.
+
+- What are the different type of Storage we have?
+Ans: 1. Session Storage 2. Local Storage 
+
+-
