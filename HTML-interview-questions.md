@@ -1,4 +1,4 @@
-HTML Interview Questions
+# HTML Interview Questions
 
 ###### 1. What is HTML?
  Ans:  **HyperText Markup Language (HTML)** is the basic scripting language used to design a webpages.
@@ -104,7 +104,7 @@ A hyperlink is a text/image on a webpage, which when clicked redirects to a new 
 
 
 ###### 20. How to draw horizontal line in a webpage?
- Ans: A horizontal line can be draw using  <hr> tag. 
+ Ans: A horizontal line can be draw using  `<hr>` tag. 
 
 ###### 21. Why is the `<div>` is called container level tag ?
 Ans: `<div>` hold another elements in it. It is also possible to hold direct text in it.
