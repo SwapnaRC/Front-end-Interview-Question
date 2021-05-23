@@ -78,19 +78,36 @@ Ans: Input tag Attribute are used based on requirement for example : if you neee
 ###### 12. What is server sent events ?
 Ans:  The events that come from the server to the browser its also know as One Way Messaging because web page automatically gets updates from a server.
 
--  Can you hide  HTML source code?
+###### 13. Can you hide  HTML source code?
 Ans:   No its not possible to hide the HTML source code as the browser needs to understand the code.
 
-- What is Application Cache ?
+###### 14. What is Application Cache ?
 Ans: Application Cache is a mechanism in which the web applications can also run offline. One of the advantages of using the application cache is that the resources load faster.
 
-- What is the difference between `<div>` and `<span>` ?
+###### 15. What is the difference between `<div>` and `<span>` ?
  Ans :<div> is a block-level element and  <span> is an inline element. 
  
-- What is a manifest file in HTML?
+###### 16. What is a manifest file in HTML?
 Ans: The manifest file is a simple text file that lists the resources the browser should cache for offline access.
 
-- What are the different type of Storage we have?
+###### 17. What are the different type of Storage we have?
 Ans: 1. Session Storage 2. Local Storage 
+Session Storage: It store the browser details. Once the user closes the browser, the storage is cleared.
 
--
+Local Storage: Data stored in local storage will not be cleared automatically or when the user closes the browser.
+
+###### 18. What is Web SQL
+Ans: Web SQL holds/store values on the client side. Web SQL is such a database in the browser which holds client information. It doesn't hold the critical information like password.
+
+###### 19. 14. What is a hyperlink?
+A hyperlink is a text/image on a webpage, which when clicked redirects to a new webpage
+
+
+###### 20. How to draw horizontal line in a webpage?
+ Ans: A horizontal line can be draw using  <hr> tag. 
+
+###### 21. Why is the `<div>` is called container level tag ?
+Ans: `<div>` hold another elements in it. It is also possible to hold direct text in it.
+
+###### 22. What is the `<article>` tag?
+Ans: `<article>` is independent and self-contained content.For example, A magazine or newspaper article.
